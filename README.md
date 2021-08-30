@@ -1,11 +1,14 @@
 ### ✨ Hey! How's it going 👋
+---
 
+```
 🤔 I haven't had time to work on this yet 
 😴 Lately its just sleep and nothing else
 
 ❤️I'll get back to this later 🥳
+```
 
-> Chew
+> By Chew
 <!--
 **ImJustChew/ImJustChew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
