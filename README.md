@@ -2,7 +2,7 @@
 
 > I don't bite, just chew.
 
-Self-taught Maker & Developer, from programming microcontrollers to writing loads of websites! 
+Self-taught Maker & Developer, from programming microcontrollers, CAD Drawings, operating 3D & Laser Cutters to writing loads of websites! 
 
 #Arduino #ESP8266 #ESP32 #Firebase #NodeJS #Python #C #C++ #React #NextJS #AndroidStudio #Flutter #Java .... you name it, well, I can go learn it when I'm free.
 
