@@ -17,7 +17,7 @@ Self-taught Maker & Developer, from programming microcontrollers, CAD Drawings, 
 - Catalyst Education 2020 
 - Elliance Sdn Bhd Intern 2022 
 - Mini Circuit Tech. Intern 2022 
-- Unemployed at Uni
+- Freelancer at Uni
 
 ### ⚡ Notable Projects: 
 - iClock (Distributed Internet Synchorized IOT Clock)
@@ -25,6 +25,7 @@ Self-taught Maker & Developer, from programming microcontrollers, CAD Drawings, 
 - UHF Tag Inventory System
 - [Club Management System for CEC](https://app.cecclphs.com)
 - [Catalyst Education](https://catalystedu.site)
+- [NTHUMods](https://nthumods.com)
 - So many more...
 
 <!--
