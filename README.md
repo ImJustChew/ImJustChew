@@ -2,7 +2,7 @@
 
 > I don't bite, just chew.
 
-Self-taught Maker & Developer, from programming microcontrollers, CAD Drawings, operating 3D & Laser Cutters to writing loads of websites! 
+Maker & Developer, from programming microcontrollers, CAD Drawings, operating 3D & Laser Cutters to writing loads of websites! 
 
 [Official Empty Website](https://imjustchew.com)
 
@@ -12,11 +12,12 @@ Self-taught Maker & Developer, from programming microcontrollers, CAD Drawings, 
 
 ### 🏢 Experience: 
 - Catalyst Education 2020 
-- Elliance Sdn Bhd Intern 2022 
-- Mini Circuit Tech. Intern 2022 
+- Software Solutions @ Elliance Sdn Bhd 2022 
+- Production Line Intern @ Mini Circuit Tech. 2022 
 - Freelancer at Uni
-- Biopro Scientific 2024
+- ML Engineer @ Biopro Scientific 2024
 - Google Hardware Design Sprint 2024
+- Mechatronics @ Logitech 2026
 
 ### ⚡ Notable Projects: 
 - iClock (Distributed Internet Synchorized IOT Clock)
