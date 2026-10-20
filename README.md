@@ -6,18 +6,18 @@ Maker & Developer, from programming microcontrollers, CAD Drawings, operating 3D
 
 [Official Empty Website](https://imjustchew.com)
 
-- 🌏 Currently in NTHU, Hsinchu, TW.
-- 🔭 Working on `my academics` 
-- 👯 Feel free to ask me for anything at chewtzihwee@gmail.com
+- 🌏 Currently in California, US.
+- 🔭 Working on `my masters` 
+- 👯 Feel free to ask me for anything at github@imjustchew.com
 
 ### 🏢 Experience: 
-- Catalyst Education 2020 
-- Software Solutions @ Elliance Sdn Bhd 2022 
-- Production Line Intern @ Mini Circuit Tech. 2022 
-- Freelancer at Uni
-- ML Engineer @ Biopro Scientific 2024
-- Google Hardware Design Sprint 2024
 - Mechatronics @ Logitech 2026
+- Google Hardware Design Sprint 2024
+- ML Engineer @ Biopro Scientific 2024
+- Freelancer at Uni
+- Production Line Intern @ Mini Circuit Tech. 2022 
+- Software Solutions @ Elliance Sdn Bhd 2022 
+- Catalyst Education 2020 
 
 ### ⚡ Notable Projects: 
 - iClock (Distributed Internet Synchorized IOT Clock)
